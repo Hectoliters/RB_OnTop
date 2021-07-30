@@ -1,0 +1,22 @@
+{
+  "name": "rb_bot",
+  "version": "1.0.0",
+  "description": "rb clans wins tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hectoliters/RB_OnTop.git"
+  },
+  "author": "RIPBOZO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hectoliters/RB_OnTop/issues"
+  },
+  "homepage": "https://github.com/Hectoliters/RB_OnTop#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
